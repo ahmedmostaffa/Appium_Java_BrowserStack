@@ -1,0 +1,10 @@
+[ {
+  "values" : [ "10.0" ],
+  "name" : "Platform.Version"
+}, {
+  "values" : [ "BrowserStack" ],
+  "name" : "Cloud"
+}, {
+  "values" : [ "Xiaomi Redmi Note 9" ],
+  "name" : "DeviceName"
+} ]

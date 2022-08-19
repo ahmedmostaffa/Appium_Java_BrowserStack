@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ejada.coursera_appium_android.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 59.289 s - in com.ejada.coursera_appium_android.AppTest

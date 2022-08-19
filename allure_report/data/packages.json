@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.ejada.coursera_appium_android",
+    "children" : [ {
+      "name" : "LoginTest_1",
+      "children" : [ {
+        "name" : "Login_test",
+        "uid" : "57b702cfe97ae02c",
+        "parentUid" : "a77f5a5baca0b7764737d4d649eb6b20",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657007739540,
+          "stop" : 1657007746426,
+          "duration" : 6886
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a77f5a5baca0b7764737d4d649eb6b20"
+    }, {
+      "name" : "LoginTest_2",
+      "children" : [ {
+        "name" : "Login_test",
+        "uid" : "265bc15c65e321df",
+        "parentUid" : "2415615ee2529498e6cf2ff364494caf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657007739540,
+          "stop" : 1657007744342,
+          "duration" : 4802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2415615ee2529498e6cf2ff364494caf"
+    } ],
+    "uid" : "com.ejada.coursera_appium_android"
+  } ]
+}
