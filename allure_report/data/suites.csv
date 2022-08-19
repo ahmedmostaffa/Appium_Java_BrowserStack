@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 05 09:55:39 EET 2022","Tue Jul 05 09:55:46 EET 2022","6886","Suite","Test","com.ejada.coursera_appium_android.LoginTest_1","com.ejada.coursera_appium_android.LoginTest_1","Login_test","Login with invalid input","login with invalid input/data"
+"passed","Tue Jul 05 09:55:39 EET 2022","Tue Jul 05 09:55:44 EET 2022","4802","Suite","Test","com.ejada.coursera_appium_android.LoginTest_2","com.ejada.coursera_appium_android.LoginTest_2","Login_test","Login with valid input/data ",""

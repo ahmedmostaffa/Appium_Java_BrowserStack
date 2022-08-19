@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LPCAIQ0797",
+    "children" : [ {
+      "name" : "9716@LPCAIQ0797.TestNG-test=Test-1(22)",
+      "children" : [ {
+        "name" : "Login with invalid input",
+        "uid" : "57b702cfe97ae02c",
+        "parentUid" : "7ecc38145a7f0ffba13fb5c9a843cf84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657007739540,
+          "stop" : 1657007746426,
+          "duration" : 6886
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7ecc38145a7f0ffba13fb5c9a843cf84"
+    }, {
+      "name" : "9716@LPCAIQ0797.TestNG-test=Test-2(23)",
+      "children" : [ {
+        "name" : "Login with valid input/data ",
+        "uid" : "265bc15c65e321df",
+        "parentUid" : "c1f2e8afc48626ecadc9eb3692b90f73",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657007739540,
+          "stop" : 1657007744342,
+          "duration" : 4802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c1f2e8afc48626ecadc9eb3692b90f73"
+    } ],
+    "uid" : "4b4a8dce6511dd33e70a25c4a1823a7e"
+  } ]
+}

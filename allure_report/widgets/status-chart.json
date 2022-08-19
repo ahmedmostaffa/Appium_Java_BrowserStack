@@ -1,0 +1,21 @@
+[ {
+  "uid" : "57b702cfe97ae02c",
+  "name" : "Login with invalid input",
+  "time" : {
+    "start" : 1657007739540,
+    "stop" : 1657007746426,
+    "duration" : 6886
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "265bc15c65e321df",
+  "name" : "Login with valid input/data ",
+  "time" : {
+    "start" : 1657007739540,
+    "stop" : 1657007744342,
+    "duration" : 4802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
